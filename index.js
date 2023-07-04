@@ -184,7 +184,5 @@ app.get("/api/animes/:id", (req, res)=>{
 
 //Test con Mocha y Chai en ./test/getTest.test.js
 
-//404 Page not found
-
 //export
 module.exports=app
